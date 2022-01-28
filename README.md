@@ -13,4 +13,5 @@ disclaimer:
 
 it's not always efficient to track my projects (in this folder) since I will be doing a lot of them.</br>
 please refer to my [original resume](https://github.com/akhrrbk/resume) for main projects. 
-follow [this link](t.me/akhrrbk) for my telegram contact(for a faster communication) or email me at `akhrrbk@gmail.com`
+follow [this link](t.me/akhrrbk) for my telegram contact(for a faster communication)</br>
+or email me at `akhrrbk@gmail.com`
