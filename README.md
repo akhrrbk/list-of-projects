@@ -2,6 +2,7 @@
 
 Main projects:
 * [GPT3](https://thirsty-almeida-958d98.netlify.app/)
+* [clone of a pomodoro website](https://github.com/akhrrbk/pomodoro-app)
 * a custom website built for a [business](https://condescending-blackwell-48ccb9.netlify.app/)
 * ann old project - [photographer portfolio](https://musing-gates-5edc9e.netlify.app/)
 
