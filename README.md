@@ -2,7 +2,7 @@
 
 Main projects:
 * [GPT3](https://thirsty-almeida-958d98.netlify.app/)
-* simple blog website with a custom api [](https://compassionate-wiles-a4981c.netlify.app/). uses useState, useEffect + custom Hooks
+* simple [blog website](https://compassionate-wiles-a4981c.netlify.app/) with a custom api. uses useState, useEffect + custom Hooks. github repo is [here](https://github.com/akhrrbk/blog-app-react-router-dom)
 * clone of a pomodoro [website](https://github.com/akhrrbk/pomodoro-app)
 * a custom website built for a [business](https://condescending-blackwell-48ccb9.netlify.app/)
 * ann old project - [photographer portfolio](https://musing-gates-5edc9e.netlify.app/)
